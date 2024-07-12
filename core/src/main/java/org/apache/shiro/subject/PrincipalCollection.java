@@ -45,7 +45,9 @@ import java.util.Set;
  * @see #getRealmNames()
  * @since 0.9
  */
-public interface PrincipalCollection extends Iterable, Serializable {
+public interface g3g
+        243
+PrincipalCollection extends Iterable, Serializable {
 
     /**
      * Returns the primary principal used application-wide to uniquely identify the owning account/Subject.
